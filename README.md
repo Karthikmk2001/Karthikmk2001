@@ -7,7 +7,7 @@ I'm a passionate SDET with **1–2 years of experience** specialising in **UI/We
 I bridge the gap between development and quality — writing clean, maintainable test code  
 that ships confidence.
 
-📍 Kerala, India  |  💼 Open to Opportunities  |  📬 [your.email@gmail.com](mailto:karthikmk6128.email@gmail.com)
+📍 Kerala, India  |  💼 Open to Opportunities  |  📬 [karthikmk6128.email@gmail.com](mailto:karthikmk6128.email@gmail.com)
 
 ## 🛠️ Tech Stack & Testing Arsenal
 
@@ -15,6 +15,7 @@ that ships confidence.
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 
 **API Testing**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -24,7 +25,8 @@ that ships confidence.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 
 **Frameworks & Tools**
 ![TestNG](https://img.shields.io/badge/TestNG-FF6600?style=flat&logoColor=white)
@@ -39,12 +41,6 @@ that ships confidence.
 - 🔄 **CI Integration** — Plugging test suites into GitHub Actions pipelines
 - 📊 **Reporting** — Allure / Extent Reports for clear test visibility
 - 🐛 **Bug Advocacy** — Finding edge cases before users do
-
-## 📊 GitHub Stats
-
-![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karthikmk2001&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikmk2001&layout=compact&hide_border=true&theme=default)
 
 ## 🌱 Currently Exploring
 - Performance testing with **k6 / JMeter**
